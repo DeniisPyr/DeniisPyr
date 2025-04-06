@@ -14,8 +14,8 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeniisPyr&theme=github_dar&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=DeniisPyr&count_private=true&show_icons=true&theme=github_dar&hide_border=true&bg_color=COLOR1" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=DeniisPyr&count_private=true&show_icons=true&theme=github_dar&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeniisPyr&theme=github_dar&layout=compact&hide_border=true&bg_color=COLOR1" />
   </p>
 </details>
